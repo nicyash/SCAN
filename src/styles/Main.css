@@ -1,0 +1,29 @@
+.category {
+    font-family: Helvetica, sans-serif;
+    position: relative;
+    padding: 3px;
+    margin: 3px;
+    color: #000000;
+    background-color: #cdfdbc;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.buth {
+    margin: 3px;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.75rem;
+    border: none;
+    background-color: #cdfdbc;
+}
+
+.category:hover {
+    font-family: Helvetica, sans-serif;
+    position: relative;
+    padding: 3px;
+    margin: 3px;
+    color: #000000;
+    background-color: #b6ddaa;
+    border-radius: 5px;
+    display: inline-block;
+}

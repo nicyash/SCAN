@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/inter');
+
+.headers {
+    display: inline;
+}
+
+.href {
+    font-family: 'Inter', sans-serif;
+    padding: 17px;
+    margin: 5px;
+    text-decoration: none;
+    color: inherit;
+    font-size: 14px;
+}

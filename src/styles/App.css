@@ -1,0 +1,23 @@
+#root {
+    padding: 10px;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+
+.header {
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+a {
+    padding: 17px;
+    margin: auto;
+    text-decoration: none;
+    color: inherit;
+    font-size: 14px;
+}
